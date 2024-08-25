@@ -3,10 +3,10 @@ package exercicio3.bin.edu.luiz.primeirasemana;
 
 public class Operadores {
     public static void main(String[] args) {
-        int idade = 2;
-        double peso = 25.5D;
-        boolean sexo = true;
-        boolean brasileiro = false;
+        //int idade = 2;
+        //double peso = 25.5D;
+        //boolean sexo = true;
+        //boolean brasileiro = false;
         int numero1 = 5;
         System.out.print(-numero1);
         int numero = 5;
