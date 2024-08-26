@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Parametros",
+            "request": "launch",
+            "mainClass": "Parametros",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -57,8 +64,7 @@
             "name": "Parametros",
             "request": "launch",
             "mainClass": "exercicio3.bin.edu.luiz.primeirasemana.Parametros",
-            "projectName": "Estudo-java_18394956",
-            
+            "projectName": "Estudo-java_18394956"
         },
         {
             "type": "java",
