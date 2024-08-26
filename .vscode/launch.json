@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "exercicio2.src.edu.luiz.primeirasemana.BoletimEstudantil",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "exercicio2.src.edu.luiz.primeirasemana.MinhaClasse",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil(1)",
+            "request": "launch",
+            "mainClass": "exercicio3.bin.edu.luiz.primeirasemana.BoletimEstudantil",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "Constante",
+            "request": "launch",
+            "mainClass": "exercicio3.bin.edu.luiz.primeirasemana.Constante",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClass",
+            "request": "launch",
+            "mainClass": "exercicio3.bin.edu.luiz.primeirasemana.MinhaClass",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "exercicio3.bin.edu.luiz.primeirasemana.Operadores",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "Parametros",
+            "request": "launch",
+            "mainClass": "exercicio3.bin.edu.luiz.primeirasemana.Parametros",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "Variaveis",
+            "request": "launch",
+            "mainClass": "exercicio3.bin.edu.luiz.primeirasemana.Variaveis",
+            "projectName": "Estudo-java_18394956"
+        }
+    ]
+}

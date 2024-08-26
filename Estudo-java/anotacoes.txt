@@ -1,0 +1,43 @@
+Palavras reservadas
+
+tipos primitivos
+Classificações
+Escopo de uso
+Palavras "opostas"
+
+52 palavras reservadas escritas wm minusculo
+
+package igual from
+
+public = publico
+private = privado
+
+char = unico caractere
+byte = um inteiro
+
+extends = super()
+
+final = const
+
+new = criar novo objeto
+
+static = faz metodo ou variavel pertecer a Class
+
+case = execução de um bloco
+
+
+
+Java Doc
+
+Documentação oficial
+Tags
+Tiposde comentários
+Javadoc
+
+Comentérios
+
+// em uma linha
+
+/* hjhjhjj *\ dentro de um bloco de metodo
+
+/** hjhjdhsjd *\ aspecto de documentação 
