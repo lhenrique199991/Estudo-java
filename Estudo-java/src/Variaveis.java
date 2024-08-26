@@ -1,4 +1,4 @@
-package exercicio3.bin.edu.luiz.primeirasemana;
+
 
 public class Variaveis {
     public static void main(String[] args) {

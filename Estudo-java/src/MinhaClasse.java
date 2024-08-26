@@ -1,4 +1,4 @@
-package edu.luiz.primeirasemana;
+
 public class MinhaClasse {
 
 //main class de execulção, que irá execultar algo.
