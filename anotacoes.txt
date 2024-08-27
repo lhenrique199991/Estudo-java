@@ -38,6 +38,17 @@ Comentérios
 
 // em uma linha
 
-/* hjhjhjj *\ dentro de um bloco de metodo
+/* texto *\ dentro de um bloco de metodo
 
-/** hjhjdhsjd *\ aspecto de documentação 
+Esturturas condicionais:
+    if-else, switch-case
+
+Estrutura de repetição:
+    for, while, do-while
+
+Estruturas de exceções:
+    try-catch-finaly, throw
+
+
+
+

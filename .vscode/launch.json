@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
             "name": "Parametros",
             "request": "launch",
             "mainClass": "Parametros",
