@@ -50,5 +50,6 @@ Estruturas de exceções:
     try-catch-finaly, throw
 
 
+Do Wihile (faça enquanto) acontece ao menos uma vez, dpois verifica se continua ou não.
 
-
+for Each (para listas e arrays)

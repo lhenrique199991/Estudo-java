@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreahContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreahContinue",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFoArrey",
+            "request": "launch",
+            "mainClass": "ExemploFoArrey",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedida",
             "request": "launch",
             "mainClass": "SistemaMedida",
