@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExcecoaesRegarNegocio",
+            "request": "launch",
+            "mainClass": "ExcecoaesRegarNegocio",
+            "projectName": "Estudo-java_18394956"
+        },
+        {
+            "type": "java",
             "name": "ProcesoSeletivo",
             "request": "launch",
             "mainClass": "ProcesoSeletivo",
